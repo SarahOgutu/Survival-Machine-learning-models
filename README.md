@@ -3,7 +3,7 @@ The project explores the use of machine learning survival models—Survival Supp
 to assess the association between cytokine profiles and HIV incidence. 
 The models were evaluated using the concordance index (C-index) and integrated Brier score (IBS). 
 SHAP values were used to interpret variable importance, identifying key cytokines and baseline factors linked to HIV risk. 
-## project objective
+## Project objective
 1. Apply ML models
 2. Use interpretable techniques to interpret the model's predictions
 3. Asses and compare the ML models' performances.
