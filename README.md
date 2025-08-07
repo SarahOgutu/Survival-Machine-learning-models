@@ -17,3 +17,5 @@ Sarah Ogutu, Mohanad Mohammed, Henry Mwambi
 ## Reference
 Ogutu, S., Mohammed, M., & Mwambi, H. (2024). Cytokine profiles as predictors of HIV incidence using machine learning survival models and statistical interpretable techniques. 
 Scientific Reports, 14(1), 1-23
+## Code Description
+The R markdown file is provided, and they give a point-by-point step of how the analysis was achieved. 
